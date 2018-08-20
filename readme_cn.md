@@ -6,20 +6,24 @@
 
 [Framer X](https://framer.com/x) 是一个强大的交互设计工具。其 Beta 测试版已于 2018 年 8 月 1 日发布并正收集试用反馈。请阅读 **[官方文档](https://framer.gitbook.io/framer/)**。
 
+开发团队最近开了一个 Facebook group **[Framer X Beta](https://www.facebook.com/groups/framer.x.feedback/)** 用来收集 bug 报告、试用反馈、建议和问题。
 
+Beta 1 里新增了一个设计商店，提供可复用的 UI 组件（由 NPM 强力驱动）。在商店里你可以找到许多诸如地图、随机图片生成器、视频和音频播放器、设计系统套件（iOS & Android）等等交互式的设计和代码组件。
 
-The team recently opened up a Facebook group **[Framer X Beta](https://www.facebook.com/groups/framer.x.feedback/)** to consolidate bug reports, feedback, ideas and questions.
+Framer X Beta 1 版中 React 组件 **仅支持 `TypeScript`**。`ES6` 预计需最终发布版才支持。
 
-Beta I comes with a new Design Store of reusable UI components (powered by NPM). On the store you will find a collection of interactive design & code components such as maps, random image generators, video and audio players, Design System Kits (iOS & Android) and more.
+如果你想开始使用 React：
 
-React components for Framer X Beta 1 **will only support `TypeScript`**. `ES6` support is expected for the final release.
+-   [React 文档](https://reactjs.org/docs/getting-started.html) - 请务必看看新的 React 文档，其中概括了最有用的资源，包括 [React 简介](https://reactjs.org/tutorial/tutorial.html) 教程。
 
-If you want to get started with React:
+-   [面向设计师的 React](http://reactfordesigners.com/)，由 [@zach\_\_johnston](https://twitter.com/zach__johnston) 制作，一个帮你避免选择恐惧症的快速指南。
 
--   [React Docs](https://reactjs.org/docs/getting-started.html) - Make sure to check out the new React Docs. It's an overview of the most useful resources including the [Intro to React](https://reactjs.org/tutorial/tutorial.html) tutorial.
--   [React for Designers](http://reactfordesigners.com/), made by [@zach\_\_johnston](https://twitter.com/zach__johnston), a quick guide to help you avoid the option paralysis.
+### 从 Framer Studio 到 Framer X
 
-### From Framer Studio to Framer X
+<b>目前我们所知道的</b>
+-   [x] Framer X 将不再支持 `CoffeeScript`。
+-   [x] 基于代码的组件将支持 Beta 1 上的 Typescript。最终版本将支持普通 ES6。
+
 
 <details>
 <summary><b>What we know so far</b></summary>
