@@ -23,48 +23,36 @@ Framer X Beta 1 版中 React 组件 **仅支持 `TypeScript`**。`ES6` 预计需
 <b>目前我们所知道的</b>
 -   [x] Framer X 将不再支持 `CoffeeScript`。
 -   [x] 基于代码的组件将支持 Beta 1 上的 Typescript。最终版本将支持普通 ES6。
+-   [x] Framer.js 将会植入一组 `React` 「小助手」，用于动画、手势和插值（interpolation），它将是开源的。
+-   [x] React 提供了很多方法来将 CSS 添加到代码组件中，Beta 1 已支持其中一些方法。
+-   [x] Framer X 不再和 Framer Studio 一样内置代码编辑器。详情见 [如何设置和自定义代码编辑器](https://github.com/framer/FramerXDocs/tree/688689a9ac4f47d06eb9e17a32bb7aab6666eca4/application#setup-and-workflow) 。
+-   [x] 要在新的「设计商店」上发布组件包，建议编辑一个 `readme.md` 文件。Github 有一个全面的 [ `Markdown` 介绍](https://guides.github.com/features/mastering-markdown/)。
+
+## 学习目录
+
+-   [免费 React 课程](#free-react-courses)
+-   [付费 React 课程](#paid-react-courses)
+-   [ES6 课程](#es6-courses)
+-   [工具](#react-based-design-tools-online-tools-and-repls)
+-   [代码编辑器](#code-editors)
+-   [教程](#tutorials)
+-   [文章](#articles)
+-   [聚会活动](#other-lists-communities-meetups-and-more)
 
 
-<details>
-<summary><b>What we know so far</b></summary>
-
--   [x] `CoffeeScript` will not be supported on Framer X.
--   [x] Code based components will support `Typescript` on Beta 1. Plain `ES6` will be supported on the final release.
--   [x] `Framer.js` will be ported into a set of `React` helpers for animation, gestures and interpolation. It will be open source.
--   [x] React offers a variety of methods to add CSS to a code component, some of this methods are supported on Beta I.
--   [x] Framer X will not include a code editor like Framer Studio. Learn more about [how to setup and customize](https://github.com/framer/FramerXDocs/tree/688689a9ac4f47d06eb9e17a32bb7aab6666eca4/application#setup-and-workflow) a code editor.
--   [x] To publish packages on the new Design Store is recommended to edit a `readme.md` file. Github has a comprehensive [Intro to `Markdown`](https://guides.github.com/features/mastering-markdown/).
-    </details>
-
-## Table of Contents
-
-<details>
-<summary><b>Expand ToC</b></summary>
-
--   [Free React Courses](#free-react-courses)
--   [Paid React Courses](#paid-react-courses)
--   [ES6 Courses](#es6-courses)
--   [Tools](#react-based-design-tools-online-tools-and-repls)
--   [Code Editors](#code-editors)
--   [Tutorials](#tutorials)
--   [Articles](#articles)
--   [Meetups](#communities-meetups-and-more)
-
-</details>
-
-## Courses
+## 课程
 
 ### Free React Courses
 
--   [Codecademy - React 101](https://www.codecademy.com/learn/react-101) - Develop a strong understanding of React's most essential concepts.
--   [Egghead.io: Start Learning React](https://egghead.io/courses/start-learning-react) - Explore the basic fundamentals of React to get you started, by [@joemaddalone](https://twitter.com/joemaddalone).
--   [Egghead.io: The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) - For React newbies and those looking to get a better understanding of React fundamentals, by [@kentcdodds](https://twitter.com/kentcdodds).
--   [React Crash Course 2018](https://www.youtube.com/watch?v=Ke90Tje7VS0) - Learn React - React Tutorial with examples, by [@moshhamedani](http://www.twitter.com/moshhamedani)
--   [ReactJS Crash Course](https://youtu.be/A71aqufiNtQ) - Learn the fundamentals of React.js, by [@traversymedia](https://twitter.com/traversymedia) - [Source Code](https://github.com/bradtraversy/projectmanager).
--   [React JS Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) - Get quickly up to pace with React.js development by LearnCode.academy.
+-   [Codecademy - React 101](https://www.codecademy.com/learn/react-101) - 深入了解 React 最基本的概念。
+-   [Egghead.io: Start Learning React](https://egghead.io/courses/start-learning-react) - 探索 React 的基本原理，以帮你入门。 by [@joemaddalone](https://twitter.com/joemaddalone).
+-   [Egghead.io: The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react) - 给 React 新手和那些希望更好的了解 React 基础知识的人。 by [@kentcdodds](https://twitter.com/kentcdodds).
+-   [React Crash Course 2018](https://www.youtube.com/watch?v=Ke90Tje7VS0) - React 带案例教程。by [@moshhamedani](http://www.twitter.com/moshhamedani)
+-   [ReactJS Crash Course](https://youtu.be/A71aqufiNtQ) - 了解 React.js 的基础知识。 by [@traversymedia](https://twitter.com/traversymedia) - [源代码](https://github.com/bradtraversy/projectmanager).
+-   [React JS Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) - 快速上手 React.js 开发。 by LearnCode.academy.
 -   [React Armory Learn React by Itself](https://reactarmory.com/guides/learn-react-by-itself) - Learn React without the buzzwords, by [@james_k_nelson](https://twitter.com/james_k_nelson).
--   [Free React bootcamp](https://tylermcginnis.com/free-react-bootcamp/) - All of the recordings, links, and assignments from the "Free React.js Bootcamp", streamed live and recorded on during April 2018 by [@tylermcginnis](https://twitter.com/tylermcginnis).
--   [React Rapid Course](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) - This React Course will help you get quickly up to pace with React.js development - [Source Code](https://github.com/learncodeacademy/react-js-tutorials).
+-   [Free React bootcamp](https://tylermcginnis.com/free-react-bootcamp/) - 所有录音、链接和作业来源于 "Free React.js Bootcamp", streamed live and recorded on during April 2018 by [@tylermcginnis](https://twitter.com/tylermcginnis).
+-   [React Rapid Course](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) - 课程将帮助您快速掌握 React.js 开发 - [源代码](https://github.com/learncodeacademy/react-js-tutorials).
 
 ### Paid React Courses
 
