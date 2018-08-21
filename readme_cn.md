@@ -50,8 +50,8 @@ Framer X Beta 1 版中 React 组件 **仅支持 `TypeScript`**。`ES6` 预计需
 -   [React Crash Course 2018](https://www.youtube.com/watch?v=Ke90Tje7VS0) - React 带案例教程。by [@moshhamedani](http://www.twitter.com/moshhamedani)
 -   [ReactJS Crash Course](https://youtu.be/A71aqufiNtQ) - 了解 React.js 的基础知识。 by [@traversymedia](https://twitter.com/traversymedia) - [源代码](https://github.com/bradtraversy/projectmanager).
 -   [React JS Tutorials](https://www.youtube.com/playlist?list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) - 快速上手 React.js 开发。 by LearnCode.academy.
--   [React Armory Learn React by Itself](https://reactarmory.com/guides/learn-react-by-itself) - Learn React without the buzzwords, by [@james_k_nelson](https://twitter.com/james_k_nelson).
--   [Free React bootcamp](https://tylermcginnis.com/free-react-bootcamp/) - 所有录音、链接和作业来源于 "Free React.js Bootcamp", streamed live and recorded on during April 2018 by [@tylermcginnis](https://twitter.com/tylermcginnis).
+-   [React Armory Learn React by Itself](https://reactarmory.com/guides/learn-react-by-itself) - 无专业术语学习 React。 by [@james_k_nelson](https://twitter.com/james_k_nelson).
+-   [Free React bootcamp](https://tylermcginnis.com/free-react-bootcamp/) - 所有录音、链接和作业来源于 "Free React.js Bootcamp", 直播并于2018年4月录制。 by [@tylermcginnis](https://twitter.com/tylermcginnis).
 -   [React Rapid Course](https://www.youtube.com/watch?v=MhkGQAoc7bc&list=PLoYCgNOIyGABj2GQSlDRjgvXtqfDxKm5b) - 课程将帮助您快速掌握 React.js 开发 - [源代码](https://github.com/learncodeacademy/react-js-tutorials).
 
 ### Paid React Courses
@@ -67,9 +67,9 @@ Framer X Beta 1 版中 React 组件 **仅支持 `TypeScript`**。`ES6` 预计需
 
 ### ES6 Courses
 
--   [Learn ES6](https://egghead.io/courses/learn-es6-ecmascript-2015) - This course takes a look at some of the new features of ES6, by [@johnlindquist](https://twitter.com/johnlindquist).
--   [ES6 for Everyone](https://es6.io/) - Improve your core JavaScript skills and master all that ES6 has to offer, by [@wesbos](https://twitter.com/wesbos).
--   [Introduction to ES6+](https://scrimba.com/g/gintrotoes6) - Learn modern JavaScript through 23 screencasts, by Per Harald Borgen - [Article](https://medium.freecodecamp.org/want-to-learn-es6-take-this-free-23-part-course-and-become-a-javascript-ninja-55002db1ff74).
+-   [Learn ES6](https://egghead.io/courses/learn-es6-ecmascript-2015) - 本课程介绍 ES6 的一些新功能, by [@johnlindquist](https://twitter.com/johnlindquist).
+-   [ES6 for Everyone](https://es6.io/) - 提高您的核心 JavaScript 技能并掌握 ES6 的必备功能, by [@wesbos](https://twitter.com/wesbos).
+-   [Introduction to ES6+](https://scrimba.com/g/gintrotoes6) - 通过 23 个视频学习现代 JavaScript, by Per Harald Borgen - [Article](https://medium.freecodecamp.org/want-to-learn-es6-take-this-free-23-part-course-and-become-a-javascript-ninja-55002db1ff74).
 
 ### React based design tools, online tools and REPLs
 
@@ -98,28 +98,28 @@ Framer X will not have a code editor. Good news is that you can install and cust
 
 ## Tutorials
 
--   [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html) - Build a game. Master the fundamentals to create a React app.
--   [What Is React?](https://learnreact.design/2017/06/08/what-is-react/) - React terms in plain English and doodles.
--   [Build with React - Tutorial](http://buildwithreact.com/tutorial) - Learn React quickly with this interactive tutorial.
--   [React Tutorial for Beginners](https://ihatetomatoes.net/react-tutorial-for-beginners/) - This React tutorial will explain everything in simple terms and plain English so you don’t feel overwhelmed or frustrated while learning React, by [@ihatetomatoes](https://twitter.com/ihatetomatoes).
--   [React Tutorial](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/) - A Comprehensive Guide to learning React.js in 2018, by [@tylermcginnis](https://twitter.com/tylermcginnis).
+-   [Tutorial: Intro to React](https://reactjs.org/tutorial/tutorial.html) - 建立一个游戏，掌握创建 React 应用程序的基础知识。
+-   [What Is React?](https://learnreact.design/2017/06/08/what-is-react/) - 用简单的英语和涂鸦解释 React 术语。
+-   [Build with React - Tutorial](http://buildwithreact.com/tutorial) - 通过此交互式教程快速学习 React。
+-   [React Tutorial for Beginners](https://ihatetomatoes.net/react-tutorial-for-beginners/) - 本教程将以简单的术语和简明的英语解释所有内容，这样您在学习 React 时就不会感到不知所措或沮丧, by [@ihatetomatoes](https://twitter.com/ihatetomatoes).
+-   [React Tutorial](https://tylermcginnis.com/reactjs-tutorial-a-comprehensive-guide-to-building-apps-with-react/) - 一个学习React.js 的综合指南 in 2018, by [@tylermcginnis](https://twitter.com/tylermcginnis).
 
 ## Articles
 
 ### React Articles
 
--   [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/) - "Often I find myself explaining more JS than React when teaching React in a workshop/online. That's why I have put all the important JS fundamentals (for React) in one extensive article" - by [@rwieruch](https://twitter.com/rwieruch).
--   [How to Learn React: A Five-Step Plan](https://www.lullabot.com/articles/how-to-learn-react) - These five steps, which should take a dedicated student about a week, will provide the foundation you need to get started, by [@\_\_jhannah](https://twitter.com/__jhannah).
--   [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4) - A quick introduction to the popular JavaScript library, by Per Harald Borgen.
--   [Learning React.js is easier than you think](https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a) - Learn the fundamentals of React.js in one Medium article.
--   [9 things every React.js beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know) - A list of tips to help you get a better foundation with React by [@thecamjackson](https://twitter.com/thecamjackson).
+-   [JavaScript fundamentals before learning React](https://www.robinwieruch.de/javascript-fundamentals-react-requirements/) - “在研讨会/网上教学 React 时，我经常发现自己解释的 JS 比 React 更多。这就是为什么我把所有重要的 JS 基础知识（对于 React）放在一篇大文章中” - by [@rwieruch](https://twitter.com/rwieruch).
+-   [How to Learn React: A Five-Step Plan](https://www.lullabot.com/articles/how-to-learn-react) - 这五个步骤将让一个专注投入的学生花大约一周，将为您提供入门所需的基础, by [@\_\_jhannah](https://twitter.com/__jhannah).
+-   [Learn React.js in 5 minutes](https://medium.freecodecamp.org/learn-react-js-in-5-minutes-526472d292f4) - 快速介绍流行的 JavaScript 库, by Per Harald Borgen.
+-   [Learning React.js is easier than you think](https://edgecoders.com/learning-react-js-is-easier-than-you-think-fbd6dc4d935a) - 在一篇 Medium 文章中了解 React.js 的基础知识。
+-   [9 things every React.js beginner should know](https://camjackson.net/post/9-things-every-reactjs-beginner-should-know) - 一系列提示，帮助您通过 React 获得更好的基础 by [@thecamjackson](https://twitter.com/thecamjackson).
 -   [Every UI Designer needs to learn React](https://blog.continuum.cl/every-ui-designer-needs-to-learn-react-heres-why-f2b8c2ff2c86)
 
 ## Other lists, communities, meetups and more.
 
--   [Awesome React](https://github.com/enaqx/awesome-react) - A collection of awesome things regarding React ecosystem.
--   [Discussion forum at discuss.reactjs.org](https://discuss.reactjs.org/) - This forum is a great place for discussion about best practices and application architecture as well as the future of React.
--   [React.js meetup groups](https://www.meetup.com/topics/reactjs/): A great way to learn React.js is to get involved with their amazing community. There are more than 500 meetups around the world. Join!
+-   [Awesome React](https://github.com/enaqx/awesome-react) - 关于 React 生态系统的一览表。
+-   [Discussion forum at discuss.reactjs.org](https://discuss.reactjs.org/) - 这个论坛是讨论最佳实践和应用程序架构以及React未来的好地方。
+-   [React.js meetup groups](https://www.meetup.com/topics/reactjs/): 学习 React.js 的一个好方法是参与他们精彩的社区。全世界有 500 多个聚会。马上加入！
 -   [Spectrum.chat/react](https://spectrum.chat/react) - A community of developers, designers and others who love React.js.
 -   [Framer X Slack Channel](https://framer.slack.com/app_redirect?channel=framer-x) - Share your work, questions or resources here!
 -   [Framer React Slack Channel](https://framer.slack.com/app_redirect?channel=react) - If you have questions, resources or just want to share something, join us!
